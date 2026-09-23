@@ -24,7 +24,7 @@
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
-  "searchEnabled": false,
+  "searchEnabled": true,
   "cvAutoExhibitions": false,
   "commissionsMode": "form",
   "analyticsProvider": "none",
