@@ -7,15 +7,20 @@
   "portfolioLayout": "masonry",
   "columns": 3,
   "motionDefault": "full",
-  "rightClickProtect": false,
+  "rightClickProtect": true,
   "watermark": false,
   "watermarkText": "",
-  "protectFromAI": false,
+  "protectFromAI": true,
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
-  "metaDescription": "",
-  "socialLinks": [],
+  "metaDescription": "Explore The Collection",
+  "socialLinks": [
+    {
+      "label": "",
+      "url": ""
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
@@ -27,7 +32,14 @@
   "availableForWork": false,
   "newsletterEnabled": false,
   "newsletterProvider": "netlify",
-  "stockists": [],
+  "stockists": [
+    {
+      "name": "Send An Instagram DM",
+      "url": "",
+      "location": "",
+      "note": ""
+    }
+  ],
   "design": {
     "preset": "gallerywall",
     "color": {
