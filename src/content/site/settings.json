@@ -28,7 +28,7 @@
   "cvAutoExhibitions": false,
   "commissionsMode": "form",
   "analyticsProvider": "none",
-  "sellEnabled": false,
+  "sellEnabled": true,
   "availableForWork": false,
   "newsletterEnabled": false,
   "newsletterProvider": "netlify",
